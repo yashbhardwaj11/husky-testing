@@ -1,0 +1,1 @@
+bash .husky/check-commit-msg.sh $1
